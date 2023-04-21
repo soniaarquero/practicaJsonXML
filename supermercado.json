@@ -1,0 +1,245 @@
+{
+  "Mercadona": [
+    {
+      "direccion": "Calle de la Hulla, 21",
+      "codigoPostal": 28021,
+      "geolocalizacion": {
+        "latitud": 40.34001177957467,
+        "longitud": -3.6752382704469624 },
+      "productos": [
+        {
+          "panaderia y pasteleria": [
+            {
+              "producto": "berlina de cacao",
+              "marca": "Hacendado",
+              "informacion": {
+                "unidades": 4,
+                "fresco": false,
+                "formato": "envasado",
+                "cantidad": 240,
+                "unidad_medida": "gramos"
+              },
+              "precio": 1.35,
+              "perecedero": true,
+              "oferta": false,
+              "periodo_vigencia": "n/a",
+              "adquirido": true
+            },
+            {
+              "producto": "Mini croissants de mantequilla",
+              "marca": "Hacendado",
+              "informacion": {
+                "unidades": 12,
+                "fresco": true,
+                "formato": "envasado",
+                "cantidad": 240,
+                "unidad_medida": "gramos"
+              },
+              "precio": 1.90,
+              "perecedero": true,
+              "oferta": false,
+              "periodo_vigencia": "n/a",
+              "adquirido": true
+            }
+          ],
+          "fruta y verdura": [
+            {
+              "producto": "uva roja sin semillas",
+              "marca": "Hnos Fdez López S.A.",
+              "informacion": {
+                "unidades": 1,
+                "fresco": true,
+                "formato": "envasado",
+                "cantidad": 500,
+                "unidad_medida": "gramos"
+              },
+              "precio": 2.30,
+              "perecedero": true,
+              "oferta": false,
+              "periodo_vigencia": "n/a",
+              "adquirido": true
+            },
+            {
+              "producto": "media sandía",
+              "marca": "Mercadona",
+              "informacion": {
+                "unidades": 0.50,
+                "fresco": true,
+                "formato": "al peso",
+                "cantidad": 0.5,
+                "unidad_medida": "kilo gramos"
+              },
+              "precio": 8.24,
+              "perecedero": true,
+              "oferta": false,
+              "periodo_vigencia": "n/a",
+              "adquirido": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Hipercor": [
+    {
+      "direccion": "Avenida Comandante Jose Manuel Ripollés, 2",
+      "codigoPostal": 28903,
+      "geolocalizacion": {
+        "latitud": 40.331192820123576,
+        "longitud": -3.7272750538759576},
+      "productos": [
+        {
+          "panaderia y pasteleria": [
+            {
+              "producto": "Donuts fondant con medio baño de cacao",
+              "marca": "Donut",
+              "informacion": {
+                "unidades": 4,
+                "fresco": false,
+                "formato": "envasado",
+                "cantidad": 204,
+                "unidad_medida": "gramos"
+              },
+              "precio": 2.65,
+              "perecedero": true,
+              "oferta": true,
+              "periodo_vigencia": "Del 5 al 21 de abril del 2023",
+              "adquirido": false
+            },
+            {
+              "producto": "Croissants con mantequilla",
+              "marca": "El corte inglés",
+              "informacion": {
+                "unidades": 10,
+                "fresco": false,
+                "formato": "envasado",
+                "cantidad": 300,
+                "unidad_medida": "gramos"
+              },
+              "precio": 1.85,
+              "perecedero": true,
+              "oferta": false,
+              "periodo_vigencia": "n/a",
+              "adquirido": false
+            }
+          ],
+          "fruta y verdura": [
+            {
+              "producto": "uva rosada sin semilla",
+              "marca": "SIN PEP@S",
+              "informacion": {
+                "unidades": 1,
+                "fresco": true,
+                "formato": "envasado",
+                "cantidad": 500,
+                "unidad_medida": "gramos"
+              },
+              "precio": 3.49,
+              "perecedero": true,
+              "oferta": true,
+              "periodo_vigencia": "Del 25 al 30 de abril del 2023",
+              "adquirido": true
+            },
+            {
+              "producto": "Media sandía",
+              "marca": "El corte inglés",
+              "informacion": {
+                "unidades": 0.50,
+                "fresco": true,
+                "formato": "al peso",
+                "cantidad": 0.50,
+                "unidad_medida": "kilo gramos"
+              },
+              "precio": 9.90,
+              "perecedero": true,
+              "oferta": false,
+              "periodo_vigencia": "n/a",
+              "adquirido": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Carrefour": [
+    {
+      "direccion": "El Bulevar, Ctra. de Villaverde, s/n, Centro Comercial",
+      "codigoPostal": 28905,
+      "geolocalizacion": {
+        "latitud": 40.3273720725741, 
+        "longitud": -3.7195271809628427},
+      "productos": [
+        {
+          "panaderia y pasteleria": [
+            {
+              "producto": "Redondos al cacao",
+              "marca": "Carrefour",
+              "informacion": {
+                "unidades": 2,
+                "fresco": false,
+                "formato": "envasado",
+                "cantidad": 200,
+                "unidad_medida": "gramos"
+              },
+              "precio": 1.60,
+              "perecedero": true,
+              "oferta": false,
+              "periodo_vigencia": "n/a",
+              "adquirido": false
+            },
+            {
+              "producto": "Croissant de mantequilla",
+              "marca": "Carrefour",
+              "informacion": {
+                "unidades": 8,
+                "fresco": true,
+                "formato": "envasado",
+                "cantidad": 200,
+                "unidad_medida": "gramos"
+              },
+              "precio": 2.79,
+              "perecedero": true,
+              "oferta": false,
+              "periodo_vigencia": "n/a",
+              "adquirido": false
+            }
+          ],
+          "fruta y verdura": [
+            {
+              "producto": "uva rosada sin pepitas",
+              "marca": "Carrefour",
+              "informacion": {
+                "unidades": 1,
+                "fresco": true,
+                "formato": "envasado",
+                "cantidad": 500,
+                "unidad_medida": "gramos"
+              },
+              "precio": 2.39,
+              "perecedero": true,
+              "oferta": false,
+              "periodo_vigencia": "n/a",
+              "adquirido": false
+            },
+            {
+              "producto": "Melón piel de sapo",
+              "marca": "Carrefour",
+              "informacion": {
+                "unidades": 1,
+                "fresco": true,
+                "formato": "al peso",
+                "cantidad": 4,
+                "unidad_medida": "kilo gramos"
+              },
+              "precio": 7.96,
+              "perecedero": true,
+              "oferta": false,
+              "periodo_vigencia": "n/a",
+              "adquirido": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

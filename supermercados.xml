@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <root>
+     <Mercadona>
+         <direccion>Calle de la Hulla, 21</direccion>
+         <codigoPostal>28021</codigoPostal>
+         <geolocalizacion>
+             <latitud>40.34001177957467</latitud>
+             <longitud>-3.6752382704469624</longitud>
+         </geolocalizacion>
+         <productos>
+             <panaderia y pasteleria>
+                 <producto>berlina de cacao</producto>
+                 <marca>Hacendado</marca>
+                 <informacion>
+                     <unidades>4</unidades>
+                     <fresco>false</fresco>
+                     <formato>envasado</formato>
+                     <cantidad>240</cantidad>
+                     <unidad_medida>gramos</unidad_medida>
+                 </informacion>
+                 <precio>1.35</precio>
+                 <perecedero>true</perecedero>
+                 <oferta>false</oferta>
+                 <periodo_vigencia>n/a</periodo_vigencia>
+                 <adquirido>true</adquirido>
+             </panaderia y pasteleria>
+             <panaderia y pasteleria>
+                 <producto>Mini croissants de mantequilla</producto>
+                 <marca>Hacendado</marca>
+                 <informacion>
+                     <unidades>12</unidades>
+                     <fresco>true</fresco>
+                     <formato>envasado</formato>
+                     <cantidad>240</cantidad>
+                     <unidad_medida>gramos</unidad_medida>
+                 </informacion>
+                 <precio>1.9</precio>
+                 <perecedero>true</perecedero>
+                 <oferta>false</oferta>
+                 <periodo_vigencia>n/a</periodo_vigencia>
+                 <adquirido>true</adquirido>
+             </panaderia y pasteleria>
+             <fruta y verdura>
+                 <producto>uva roja sin semillas</producto>
+                 <marca>Hnos Fdez López S.A.</marca>
+                 <informacion>
+                     <unidades>1</unidades>
+                     <fresco>true</fresco>
+                     <formato>envasado</formato>
+                     <cantidad>500</cantidad>
+                     <unidad_medida>gramos</unidad_medida>
+                 </informacion>
+                 <precio>2.3</precio>
+                 <perecedero>true</perecedero>
+                 <oferta>false</oferta>
+                 <periodo_vigencia>n/a</periodo_vigencia>
+                 <adquirido>true</adquirido>
+             </fruta y verdura>
+             <fruta y verdura>
+                 <producto>media sandía</producto>
+                 <marca>Mercadona</marca>
+                 <informacion>
+                     <unidades>0.5</unidades>
+                     <fresco>true</fresco>
+                     <formato>al peso</formato>
+                     <cantidad>0.5</cantidad>
+                     <unidad_medida>kilo gramos</unidad_medida>
+                 </informacion>
+                 <precio>8.24</precio>
+                 <perecedero>true</perecedero>
+                 <oferta>false</oferta>
+                 <periodo_vigencia>n/a</periodo_vigencia>
+                 <adquirido>true</adquirido>
+             </fruta y verdura>
+         </productos>
+     </Mercadona>
+     <Hipercor>
+         <direccion>Avenida Comandante Jose Manuel Ripollés, 2</direccion>
+         <codigoPostal>28903</codigoPostal>
+         <geolocalizacion>
+             <latitud>40.331192820123576</latitud>
+             <longitud>-3.7272750538759576</longitud>
+         </geolocalizacion>
+         <productos>
+             <panaderia y pasteleria>
+                 <producto>Donuts fondant con medio baño de cacao</producto>
+                 <marca>Donut</marca>
+                 <informacion>
+                     <unidades>4</unidades>
+                     <fresco>false</fresco>
+                     <formato>envasado</formato>
+                     <cantidad>204</cantidad>
+                     <unidad_medida>gramos</unidad_medida>
+                 </informacion>
+                 <precio>2.65</precio>
+                 <perecedero>true</perecedero>
+                 <oferta>true</oferta>
+                 <periodo_vigencia>Del 5 al 21 de abril del 2023</periodo_vigencia>
+                 <adquirido>false</adquirido>
+             </panaderia y pasteleria>
+             <panaderia y pasteleria>
+                 <producto>Croissants con mantequilla</producto>
+                 <marca>El corte inglés</marca>
+                 <informacion>
+                     <unidades>10</unidades>
+                     <fresco>false</fresco>
+                     <formato>envasado</formato>
+                     <cantidad>300</cantidad>
+                     <unidad_medida>gramos</unidad_medida>
+                 </informacion>
+                 <precio>1.85</precio>
+                 <perecedero>true</perecedero>
+                 <oferta>false</oferta>
+                 <periodo_vigencia>n/a</periodo_vigencia>
+                 <adquirido>false</adquirido>
+             </panaderia y pasteleria>
+             <fruta y verdura>
+                 <producto>uva rosada sin semilla</producto>
+                 <marca>SIN PEP@S</marca>
+                 <informacion>
+                     <unidades>1</unidades>
+                     <fresco>true</fresco>
+                     <formato>envasado</formato>
+                     <cantidad>500</cantidad>
+                     <unidad_medida>gramos</unidad_medida>
+                 </informacion>
+                 <precio>3.49</precio>
+                 <perecedero>true</perecedero>
+                 <oferta>true</oferta>
+                 <periodo_vigencia>Del 25 al 30 de abril del 2023</periodo_vigencia>
+                 <adquirido>true</adquirido>
+             </fruta y verdura>
+             <fruta y verdura>
+                 <producto>Media sandía</producto>
+                 <marca>El corte inglés</marca>
+                 <informacion>
+                     <unidades>0.5</unidades>
+                     <fresco>true</fresco>
+                     <formato>al peso</formato>
+                     <cantidad>0.5</cantidad>
+                     <unidad_medida>kilo gramos</unidad_medida>
+                 </informacion>
+                 <precio>9.9</precio>
+                 <perecedero>true</perecedero>
+                 <oferta>false</oferta>
+                 <periodo_vigencia>n/a</periodo_vigencia>
+                 <adquirido>true</adquirido>
+             </fruta y verdura>
+         </productos>
+     </Hipercor>
+     <Carrefour>
+         <direccion>El Bulevar, Ctra. de Villaverde, s/n, Centro Comercial</direccion>
+         <codigoPostal>28905</codigoPostal>
+         <geolocalizacion>
+             <latitud>40.3273720725741</latitud>
+             <longitud>-3.7195271809628427</longitud>
+         </geolocalizacion>
+         <productos>
+             <panaderia y pasteleria>
+                 <producto>Redondos al cacao</producto>
+                 <marca>Carrefour</marca>
+                 <informacion>
+                     <unidades>2</unidades>
+                     <fresco>false</fresco>
+                     <formato>envasado</formato>
+                     <cantidad>200</cantidad>
+                     <unidad_medida>gramos</unidad_medida>
+                 </informacion>
+                 <precio>1.6</precio>
+                 <perecedero>true</perecedero>
+                 <oferta>false</oferta>
+                 <periodo_vigencia>n/a</periodo_vigencia>
+                 <adquirido>false</adquirido>
+             </panaderia y pasteleria>
+             <panaderia y pasteleria>
+                 <producto>Croissant de mantequilla</producto>
+                 <marca>Carrefour</marca>
+                 <informacion>
+                     <unidades>8</unidades>
+                     <fresco>true</fresco>
+                     <formato>envasado</formato>
+                     <cantidad>200</cantidad>
+                     <unidad_medida>gramos</unidad_medida>
+                 </informacion>
+                 <precio>2.79</precio>
+                 <perecedero>true</perecedero>
+                 <oferta>false</oferta>
+                 <periodo_vigencia>n/a</periodo_vigencia>
+                 <adquirido>false</adquirido>
+             </panaderia y pasteleria>
+             <fruta y verdura>
+                 <producto>uva rosada sin pepitas</producto>
+                 <marca>Carrefour</marca>
+                 <informacion>
+                     <unidades>1</unidades>
+                     <fresco>true</fresco>
+                     <formato>envasado</formato>
+                     <cantidad>500</cantidad>
+                     <unidad_medida>gramos</unidad_medida>
+                 </informacion>
+                 <precio>2.39</precio>
+                 <perecedero>true</perecedero>
+                 <oferta>false</oferta>
+                 <periodo_vigencia>n/a</periodo_vigencia>
+                 <adquirido>false</adquirido>
+             </fruta y verdura>
+             <fruta y verdura>
+                 <producto>Melón piel de sapo</producto>
+                 <marca>Carrefour</marca>
+                 <informacion>
+                     <unidades>1</unidades>
+                     <fresco>true</fresco>
+                     <formato>al peso</formato>
+                     <cantidad>4</cantidad>
+                     <unidad_medida>kilo gramos</unidad_medida>
+                 </informacion>
+                 <precio>7.96</precio>
+                 <perecedero>true</perecedero>
+                 <oferta>false</oferta>
+                 <periodo_vigencia>n/a</periodo_vigencia>
+                 <adquirido>false</adquirido>
+             </fruta y verdura>
+         </productos>
+     </Carrefour>
+ </root>
